@@ -51,6 +51,6 @@ Improve employee engagement and retention strategies.
 
 6. 👩‍💻 Author
 
-Mansi Sahagal                 
+   Mansi Sahagal                 
 🎓 B.Tech CSE Student                      
-💻 Aspiring Data Analyst & Frontend Developer    # Syntecxhub_HR-Analytics-Dashboard
+💻 Aspiring Data Analyst & Frontend Developer    
